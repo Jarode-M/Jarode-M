@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/jarode-m/jarode-m/output/snake.svg" alt="Snake animation" />
-
-###
