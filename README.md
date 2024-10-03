@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ArmsYT&&style=flat-square" />
-    <a href="https://paypal.me/armsonyt" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/>
-    </a>
-</div>
 <div>
     <div>
         <h2 style="text-align: center; font-weight: bold;">Connaissances</h2>
@@ -15,10 +9,6 @@
             <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" title="CSS3" /></a>
             <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title="Bootstrap" /></a>
             <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" title="Tailwind CSS" /></a>
-        </div>
-        <h2 style="text-align: center; font-weight: bold;">Autres</h2>
-        <div style="display: flex; justify-content: center; text-align: center;">
-            <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" title="Photoshop" /></a>
         </div>
     <div>
         <h2 style="text-align: center; font-weight: bold;">Réseaux sociaux</h2>
